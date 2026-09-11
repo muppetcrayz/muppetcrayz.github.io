@@ -6,3 +6,5 @@
 @media print{body{background:white}.page{width:100%}nav,.skip-link{display:none}.intro{padding:2rem 0}.section{break-inside:avoid}a{color:inherit}.button{background:none;color:var(--ink);border:1px solid var(--line)}}
 
 .intro{position:relative}.botanical-mark{position:absolute;right:0;top:5.8rem;width:160px;height:auto;mix-blend-mode:multiply;opacity:.8}.writing{grid-template-columns:1fr;gap:1.7rem}.writing-body{display:grid;grid-template-columns:170px 1fr;gap:2.5rem;align-items:center}.book-cover{display:block;width:100%;height:auto;box-shadow:5px 9px 18px #263d3220}.book-copy{max-width:490px}.book-copy p{line-height:1.7}@media(max-width:760px){.botanical-mark{width:105px;top:3rem;opacity:.55}.intro .eyebrow{max-width:65%}.intro-line{position:relative}.writing-body{grid-template-columns:130px 1fr;gap:1.5rem}}@media(max-width:520px){.botanical-mark{width:75px;top:3rem}.writing-body{grid-template-columns:1fr}.book-cover{width:145px}.writing h3{font-size:2.1rem}}
+
+.contact-links{display:flex;align-items:center;flex-wrap:wrap;gap:1rem 1.5rem}
