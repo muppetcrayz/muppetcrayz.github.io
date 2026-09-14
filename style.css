@@ -10,3 +10,5 @@
 .contact-links{display:flex;align-items:center;flex-wrap:wrap;gap:1rem 1.5rem}
 
 .now-updated{margin:.4rem 0 0;font-size:.75rem;color:var(--muted)}.now-updated time{font-size:inherit}.now-list{margin:0}.now-list>div+div{margin-top:1.3rem}.now-list dt{font-size:.875rem;font-weight:600;margin-bottom:.3rem}.now-list dd{margin:0;color:var(--muted)}nav{flex-wrap:wrap;row-gap:.5rem}
+
+.book-excerpt{border-top:1px solid #b7c3af}.book-excerpt summary{font-weight:600;min-height:48px}.excerpt-prose{max-width:65ch;margin:0 auto;padding:.5rem 0 1rem;font-family:Georgia,'Times New Roman',serif;font-size:1.0625rem;line-height:1.85}.writing .excerpt-prose p{color:var(--ink);margin:0 0 1em}.excerpt-prose em{color:inherit}
