@@ -28,4 +28,4 @@
 .intro-photo{margin:0}.intro-photo img{display:block;width:100%;height:auto;border-radius:3px}.intro-photo figcaption{margin-top:.65rem;font-size:.875rem;color:var(--muted);font-family:Georgia,'Times New Roman',serif;font-style:italic}
 @media(max-width:760px){.intro{grid-template-columns:1fr;gap:2rem}.intro .eyebrow{max-width:none}.intro-photo{width:min(100%,340px)}.intro-line{font-size:clamp(2.15rem,6vw,3.2rem)}}
 
-.employment-dates{margin:0 0 .5rem}.role-progression{margin:.35rem 0 0;font-size:.875rem;color:var(--muted)}
+.role-progression{margin:.35rem 0 0;font-size:.875rem;color:var(--muted)}
